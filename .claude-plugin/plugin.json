@@ -1,0 +1,12 @@
+{
+  "name": "gsuite-skills",
+  "description": "Google Workspace skills for Claude Code — organize Drive files by rule (MIME type, name pattern, age), dry-run plan, apply, and undo. Pairs with the Google Workspace MCP.",
+  "version": "1.0.0",
+  "author": {
+    "name": "NextLevelManagementAdvisors"
+  },
+  "repository": "https://github.com/NextLevelManagementAdvisors/gsuite-skills-plugin",
+  "license": "MIT",
+  "keywords": ["google-drive", "google-workspace", "gsuite", "organize", "drive"],
+  "skills": "./skills"
+}

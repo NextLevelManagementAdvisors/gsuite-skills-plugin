@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Google Workspace": {
+      "type": "http",
+      "url": "https://mcp.googleapis.com/mcp"
+    }
+  }
+}
