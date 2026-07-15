@@ -22,4 +22,6 @@ Requires the Google Workspace MCP (wired automatically on plugin install).
 
 ## License
 
-MIT
+Copyright © 2026 Next Level Management Advisors, LLC.
+
+Licensed under the **GNU AGPL-3.0** (see [LICENSE](LICENSE)). Commercial licensing available — contact **forrest@nlma.io**.
