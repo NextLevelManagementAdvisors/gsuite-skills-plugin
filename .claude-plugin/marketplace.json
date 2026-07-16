@@ -1,0 +1,22 @@
+{
+  "name": "gsuite-skills",
+  "description": "Single-plugin marketplace for the gsuite-skills plugin (Google Workspace / Drive organization skills for Claude Code).",
+  "owner": {
+    "name": "Next Level Management Advisors",
+    "url": "https://nlma.io"
+  },
+  "plugins": [
+    {
+      "name": "gsuite-skills",
+      "description": "Google Workspace skills for Claude Code — organize Drive files by rule (MIME type, name pattern, age), dry-run plan, apply, and undo. Pairs with the Google Workspace MCP.",
+      "version": "1.0.0",
+      "author": {
+        "name": "NextLevelManagementAdvisors"
+      },
+      "source": "./",
+      "strict": false,
+      "homepage": "https://github.com/NextLevelManagementAdvisors/gsuite-skills-plugin",
+      "keywords": ["google-drive", "google-workspace", "gsuite", "organize", "drive"]
+    }
+  ]
+}
