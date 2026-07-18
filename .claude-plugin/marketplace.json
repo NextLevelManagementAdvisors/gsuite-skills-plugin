@@ -8,15 +8,15 @@
   "plugins": [
     {
       "name": "gsuite-skills",
-      "description": "Google Workspace skills for Claude Code — organize Drive files by rule (MIME type, name pattern, age), dry-run plan, apply, and undo. Pairs with the Google Workspace MCP.",
-      "version": "1.0.0",
+      "description": "Google Workspace skills for Claude Code: organize Drive files by rule (dry-run/apply/undo), route calls between multiple Workspace accounts, and re-authenticate a self-hosted Google Voice MCP via a real-Chrome CDP cookie capture. Pairs with the Google Workspace MCP.",
+      "version": "1.1.0",
       "author": {
         "name": "NextLevelManagementAdvisors"
       },
       "source": "./",
       "strict": false,
       "homepage": "https://github.com/NextLevelManagementAdvisors/gsuite-skills-plugin",
-      "keywords": ["google-drive", "google-workspace", "gsuite", "organize", "drive"]
+      "keywords": ["google-drive", "google-workspace", "gsuite", "organize", "drive", "google-voice", "reauth", "cdp"]
     }
   ]
 }
